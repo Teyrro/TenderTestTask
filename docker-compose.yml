@@ -1,0 +1,28 @@
+
+
+services:
+
+  rabbitmq:
+
+    build:
+      context: /Dockerfiles
+      dockerfile: amqp.Dockerfile
+    restart: always
+    environment:
+      - RABBITMQ_DEFAULT_USER=${RABBITMQ_USER}
+      - RABBITMQ_DEFAULT_PASS=${RABBITMQ_PASS}
+    ports:
+      # The standard AMQP protocol port
+      - '${RABBITMQ_NODE_PORT}:5672'
+      # HTTP management UI
+      - '15672:15672'
+
+  redis:
+    image: bitnami/redis:latest
+    restart: always
+    container_name: redis_container
+    environment:
+      - REDIS_PASSWORD=${REDIS_PASS}
+    ports:
+      - "${REDIS_PORT}:6379"
+

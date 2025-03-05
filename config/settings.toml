@@ -1,2 +1,16 @@
-[virtualenvs]
-in-project = true
+[get_request]
+html = {'Context-Type'="text/html; charset=utf-8"}
+xml = {'Context-Type'="text/xml; charset=utf-8"}
+
+[target_site]
+host="https://zakupki.gov.ru"
+page_link="/epz/order/extendedsearch/results.html"
+params={"fz44"="on", "pageNumber"=""}
+page_count=2
+
+[page]
+div_class="w-space-nowrap ml-auto registry-entry__header-top__icon"
+
+[xml_tags]
+common="commonInfo"
+publish="publishDTInEIS"

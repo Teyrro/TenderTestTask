@@ -1,6 +1,6 @@
 import pytest
 
-from config import settings
+from config.config import settings
 
 pytest_plugins = ("celery.contrib.pytest",)  # <-- Important!
 

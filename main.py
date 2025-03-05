@@ -1,16 +1,35 @@
-import redis
-from celery import Celery
+import asyncio
+from concurrent.futures import ThreadPoolExecutor
 
-from config import settings
+import requests
+from celery import group
 
-mul_celery = Celery(
-    "mul_celery",
-    broker=settings.RABBITMQ_URL,
-    backend=settings.REDIS_URL,
-)
-mul_celery.conf.broker_connection_retry_on_startup = True
+from services.work_with_pages_service.async_pages_process import get_pages, get_xml_files
+from services.work_with_pages_service.tasks import take_links, parse_xml
 
-@mul_celery.task
-def mul(x, y):
-    return x * y
 
+def save_result(data):
+    with open("result.txt", "w") as file:
+        for tup in data:
+            file.write(str(tup) + "\n")
+
+def main():
+    pages_html = asyncio.run(get_pages())
+    job = group([
+        take_links.s(page) for page in pages_html
+    ])
+    pages_links = job.apply_async().get()
+
+    xml_files = asyncio.run(get_xml_files(pages_links))
+    job = group([
+        parse_xml.s(link, xml_file) for link, xml_file in xml_files
+    ])
+    publish_info = job.apply_async().get()
+
+    save_result(publish_info)
+
+
+
+
+if __name__ == '__main__':
+    main()

@@ -29,4 +29,6 @@ RUN poetry install --no-root --no-interaction --no-ansi
 
 ADD config /code/config
 ADD services /code/services
-RUN chmod +x config/bash_scripts/start_workers.sh
+ADD test /code/test
+RUN find config/scripts/ -type f -exec chmod 755 {} \;
+

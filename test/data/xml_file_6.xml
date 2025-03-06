@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?><ns7:epNotificationEF2020 xmlns:ns7="http://zakupki.gov.ru/oos/printform/1" xmlns="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns2="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1" xmlns:ns4="http://zakupki.gov.ru/oos/types/1" xmlns:ns5="http://zakupki.gov.ru/oos/KOTypes/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" schemeVersion="15.0">
+    <id>38601952</id>
+    <versionNumber>1</versionNumber>
+    <commonInfo>
+        <purchaseNumber>0338300012525000031</purchaseNumber>
+        <docNumber>№0338300012525000031</docNumber>
+        <directDT>2025-02-25T16:50:34.112+12:00</directDT>
+        <plannedPublishDate>2025-02-26+12:00</plannedPublishDate>
+        <publishDTInEIS>2025-02-26T14:35:40.569+12:00</publishDTInEIS>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0338300012525000031</href>
+        <notPublishedOnEIS>true</notPublishedOnEIS>
+        <placingWay>
+            <ns2:code>EAP20</ns2:code>
+            <ns2:name>Электронный аукцион</ns2:name>
+        </placingWay>
+        <ETP>
+            <ns2:code>ETP_SBAST</ns2:code>
+            <ns2:name>АО «Сбербанк-АСТ»</ns2:name>
+            <ns2:url>http://www.sberbank-ast.ru</ns2:url>
+        </ETP>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <purchaseObjectInfo>2-Поставка продуктов питания для нужд учреждения</purchaseObjectInfo>
+    </commonInfo>
+    <purchaseResponsibleInfo>
+        <responsibleOrgInfo>
+            <regNum>03383000125</regNum>
+            <consRegistryNum>302Щ0508</consRegistryNum>
+            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАМЧАТСКОГО КРАЯ "ТИГИЛЬСКАЯ РАЙОННАЯ БОЛЬНИЦА"</fullName>
+            <shortName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАМЧАТСКОГО КРАЯ "ТИГИЛЬСКАЯ РАЙОННАЯ БОЛЬНИЦА"</shortName>
+            <postAddress>Российская Федерация, 688600, Камчатский край, Тигильский р-н, Тигиль с, УЛ. ЛЕСНАЯ, Д.3</postAddress>
+            <factAddress>Российская Федерация, 688600, Камчатский край, Тигильский р-н, Тигиль с, УЛ. ЛЕСНАЯ, Д.3</factAddress>
+            <INN>8202000791</INN>
+            <KPP>820201001</KPP>
+        </responsibleOrgInfo>
+        <responsibleRole>CU</responsibleRole>
+        <responsibleInfo>
+            <orgPostAddress>Российская Федерация, 688600, Камчатский край, Тигильский р-н, Тигиль с, УЛ. ЛЕСНАЯ, Д.3</orgPostAddress>
+            <orgFactAddress>Российская Федерация, 688600, Камчатский край, Тигильский р-н, Тигиль с, УЛ. ЛЕСНАЯ, Д.3</orgFactAddress>
+            <contactPersonInfo>
+                <ns3:lastName>Валова</ns3:lastName>
+                <ns3:firstName>Е.</ns3:firstName>
+                <ns3:middleName>А.</ns3:middleName>
+            </contactPersonInfo>
+            <contactEMail>zakupki_tigil@mail.ru</contactEMail>
+            <contactPhone>7-41537-21400</contactPhone>
+        </responsibleInfo>
+    </purchaseResponsibleInfo>
+    <printFormInfo>
+        <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0338300012525000031</ns3:url>
+    </printFormInfo>
+    <attachmentsInfo>
+        <ns3:attachmentInfo>
+            <ns3:publishedContentId>DB2EBAA75A4344A7A169F7F1D0455ADB</ns3:publishedContentId>
+            <ns3:fileName>Приложение № 1  Обоснование НМЦК.xlsx</ns3:fileName>
+            <ns3:fileSize>20701</ns3:fileSize>
+            <ns3:docDescription>Приложение № 1  Обоснование НМЦК</ns3:docDescription>
+            <ns3:docDate>2025-02-25T07:47:22+03:00</ns3:docDate>
+            <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=DB2EBAA75A4344A7A169F7F1D0455ADB</ns3:url>
+            <ns3:docKindInfo>
+                <ns2:code>MRJ</ns2:code>
+                <ns2:name>Обоснование начальной (максимальной) цены контракта</ns2:name>
+            </ns3:docKindInfo>
+        </ns3:attachmentInfo>
+        <ns3:attachmentInfo>
+            <ns3:publishedContentId>C6E122870C53407185E2DE92BB4FFF90</ns3:publishedContentId>
+            <ns3:fileName>Приложение № 2 проект Контракта.doc</ns3:fileName>
+            <ns3:fileSize>146944</ns3:fileSize>
+            <ns3:docDescription>Приложение № 2 проект Контракта</ns3:docDescription>
+            <ns3:docDate>2025-02-25T07:43:36+03:00</ns3:docDate>
+            <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=C6E122870C53407185E2DE92BB4FFF90</ns3:url>
+            <ns3:docKindInfo>
+                <ns2:code>CP</ns2:code>
+                <ns2:name>Проект контракта</ns2:name>
+            </ns3:docKindInfo>
+        </ns3:attachmentInfo>
+        <ns3:attachmentInfo>
+            <ns3:publishedContentId>C3727FC97009479A856DD797E24BACC8</ns3:publishedContentId>
+            <ns3:fileName>Приложение № 3 Описание объекта закупки продукты питания.docx</ns3:fileName>
+            <ns3:fileSize>22129</ns3:fileSize>
+            <ns3:docDescription>Приложение № 3 Описание объекта закупки продукты питания</ns3:docDescription>
+            <ns3:docDate>2025-02-25T07:39:49+03:00</ns3:docDate>
+            <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=C3727FC97009479A856DD797E24BACC8</ns3:url>
+            <ns3:docKindInfo>
+                <ns2:code>POD</ns2:code>
+                <ns2:name>Описание объекта закупки</ns2:name>
+            </ns3:docKindInfo>
+        </ns3:attachmentInfo>
+        <ns3:attachmentInfo>
+            <ns3:publishedContentId>7254071DA3154FBCB20C5A8943AB83D7</ns3:publishedContentId>
+            <ns3:fileName>Приложение №4 Требования к содержанию, составу заявки на участие в закупке и инструкция по ее заполнению.doc</ns3:fileName>
+            <ns3:fileSize>103936</ns3:fileSize>
+            <ns3:docDescription>Приложение №4 Требования к содержанию, составу заявки на участие в закупке и инструкция по ее заполнению</ns3:docDescription>
+            <ns3:docDate>2025-02-25T07:39:55+03:00</ns3:docDate>
+            <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=7254071DA3154FBCB20C5A8943AB83D7</ns3:url>
+            <ns3:docKindInfo>
+                <ns2:code>CAR</ns2:code>
+                <ns2:name>Требование к содержанию, составу заявки на участие в закупке</ns2:name>
+            </ns3:docKindInfo>
+        </ns3:attachmentInfo>
+    </attachmentsInfo>
+    <serviceSigns>
+        <isControlP1Ch5St99>false</isControlP1Ch5St99>
+    </serviceSigns>
+    <notificationInfo>
+        <procedureInfo>
+            <collectingInfo>
+                <startDT>2025-02-26T14:35:40+12:00</startDT>
+                <endDT>2025-03-06T15:24:00+12:00</endDT>
+            </collectingInfo>
+            <biddingDate>2025-03-06+12:00</biddingDate>
+            <summarizingDate>2025-03-07+12:00</summarizingDate>
+        </procedureInfo>
+        <contractConditionsInfo>
+            <maxPriceInfo>
+                <maxPrice>560230</maxPrice>
+                <currency>
+                    <ns2:code>RUB</ns2:code>
+                    <ns2:name>РОССИЙСКИЙ РУБЛЬ</ns2:name>
+                </currency>
+            </maxPriceInfo>
+        </contractConditionsInfo>
+        <customerRequirementsInfo>
+            <customerRequirementInfo>
+                <customer>
+                    <ns2:regNum>03383000125</ns2:regNum>
+                    <ns2:consRegistryNum>302Щ0508</ns2:consRegistryNum>
+                    <ns2:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ КАМЧАТСКОГО КРАЯ "ТИГИЛЬСКАЯ РАЙОННАЯ БОЛЬНИЦА"</ns2:fullName>
+                </customer>
+                <contractGuarantee>
+                    <amount>28011.50</amount>
+                    <account>
+                        <ns3:bik>013002402</ns3:bik>
+                        <ns3:settlementAccount>03224643300000003800</ns3:settlementAccount>
+                        <ns3:personalAccount>20386Щ05080</ns3:personalAccount>
+                        <ns3:creditOrgName>ОТДЕЛЕНИЕ ПЕТРОПАВЛОВСК-КАМЧАТСКИЙ БАНКА РОССИИ//УФК по Камчатскому краю г. Петропавловск-Камчатский </ns3:creditOrgName>
+                        <ns3:corrAccountNumber>40102810945370000031</ns3:corrAccountNumber>
+                    </account>
+                    <procedureInfo>Обеспечение исполнения контракта может предоставляться (ч. 3 ст. 96 Федерального закона от 05.04.2013 г. N 44-ФЗ): а) в виде независимой гарантии, выданной банком и соответствующей требованиям ст. 45 Федерального закона от 05.04.2013 г. N 44-ФЗ; б) путем внесения денежных средств на указанный заказчиком счет. Срок действия независимой гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой независимой гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со ст. 95 Федерального закона от 05.04.2013 г. N 44-ФЗ (ч. 3 ст. 96 Федерального закона от 05.04.2013 г. N 44-ФЗ). Способ предоставления обеспечения выбирается участником закупки, с которым заключается контракт, самостоятельно. В случае не предоставления участником закупки, с которым заключается контракт, обеспечения исполнения контракта в срок, установленный для заключения контракта, такой участник считается уклонившимся от заключения контракта (ч. 5 ст. 96 Федерального закона от 05.04.2013 г. N 44-ФЗ).</procedureInfo>
+                    <part>5.0</part>
+                </contractGuarantee>
+                <contractConditionsInfo>
+                    <maxPriceInfo>
+                        <maxPrice>560230</maxPrice>
+                    </maxPriceInfo>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <IKZInfo>
+                        <purchaseCode>252820200079182020100100400400000244</purchaseCode>
+                        <publishYear>2025</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns2:code>244</ns2:code>
+                                <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>28202000791820201001</customerCode>
+                        <purchaseNumber>0040</purchaseNumber>
+                        <purchaseOrderNumber>040</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202503383000125002</ns3:plan2020Number>
+                        <ns3:position2020Number>202503383000125002000040</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <contractExecutionTermsInfo>
+                            <ns3:notRelativeTermsInfo>
+                                <ns3:isFromConclusionDate>true</ns3:isFromConclusionDate>
+                                <ns3:endDate>2026-04-30+03:00</ns3:endDate>
+                            </ns3:notRelativeTermsInfo>
+                        </contractExecutionTermsInfo>
+                        <financingSourcesInfo>
+                            <nonbudgetFinancingsInfo>
+                                <selfFunds>true</selfFunds>
+                            </nonbudgetFinancingsInfo>
+                            <currentYear>2025</currentYear>
+                            <financeInfo>
+                                <total>560230</total>
+                                <currentYear>510230</currentYear>
+                                <firstYear>50000</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <stagesInfo>
+                            <stageInfo>
+                                <sid>13847674</sid>
+                                <termsInfo>
+                                    <ns3:notRelativeTermsInfo>
+                                        <ns3:isFromConclusionDate>true</ns3:isFromConclusionDate>
+                                        <ns3:endDate>2026-04-30+03:00</ns3:endDate>
+                                    </ns3:notRelativeTermsInfo>
+                                </termsInfo>
+                                <nonbudgetFinancingInfo>
+                                    <paymentYearInfo>
+                                        <total>560230</total>
+                                        <currentYear>510230</currentYear>
+                                        <firstYear>50000</firstYear>
+                                        <secondYear>0</secondYear>
+                                        <subsecYears>0</subsecYears>
+                                    </paymentYearInfo>
+                                    <KVRsInfo>
+                                        <ns3:currentYear>2025</ns3:currentYear>
+                                        <ns3:KVRInfo>
+                                            <ns3:KVR>
+                                                <ns2:code>244</ns2:code>
+                                                <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                                            </ns3:KVR>
+                                            <ns3:KVRYearsInfo>
+                                                <ns3:total>560230</ns3:total>
+                                                <ns3:currentYear>510230</ns3:currentYear>
+                                                <ns3:firstYear>50000</ns3:firstYear>
+                                                <ns3:secondYear>0</ns3:secondYear>
+                                                <ns3:subsecYears>0</ns3:subsecYears>
+                                            </ns3:KVRYearsInfo>
+                                        </ns3:KVRInfo>
+                                        <ns3:totalSum>560230</ns3:totalSum>
+                                    </KVRsInfo>
+                                </nonbudgetFinancingInfo>
+                            </stageInfo>
+                        </stagesInfo>
+                    </contractExecutionPaymentPlan>
+                    <deliveryPlacesInfo>
+                        <byGARInfo>
+                            <ns3:sid>51521805</ns3:sid>
+                            <ns3:countryInfo>
+                                <ns2:countryCode>643</ns2:countryCode>
+                                <ns2:countryFullName>Российская Федерация</ns2:countryFullName>
+                            </ns3:countryInfo>
+                            <ns3:GARInfo>
+                                <ns3:GARGuid>1893d980-482d-4ce8-92f9-910e17d86766</ns3:GARGuid>
+                                <ns3:GARAddress>край Камчатский, м.р-н Тигильский, с.п. село Тигиль, с Тигиль</ns3:GARAddress>
+                            </ns3:GARInfo>
+                            <ns3:deliveryPlace>688600 Камчатский край, Тигильский район, с. Тигиль, ул. Лесная, 3, до места складирования товара в соответствующее помещение, определяемое Заказчиком.</ns3:deliveryPlace>
+                        </byGARInfo>
+                    </deliveryPlacesInfo>
+                    <isOneSideRejectionSt95>true</isOneSideRejectionSt95>
+                </contractConditionsInfo>
+            </customerRequirementInfo>
+        </customerRequirementsInfo>
+        <purchaseObjectsInfo>
+            <notDrugPurchaseObjectsInfo>
+                <ns3:purchaseObject>
+                    <ns3:sid>174834198</ns3:sid>
+                    <ns3:KTRU>
+                        <ns2:code>10.39.22.110-00000002</ns2:code>
+                        <ns2:name>Джем</ns2:name>
+                        <ns2:versionId>168872</ns2:versionId>
+                        <ns2:versionNumber>5</ns2:versionNumber>
+                        <ns3:characteristics>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897858</ns3:sid>
+                                <ns3:code>450939d7-5</ns3:code>
+                                <ns3:name>Наличие обогащающих компонентов</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>2</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978205</ns3:sid>
+                                        <ns3:qualityDescription>Да</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897857</ns3:sid>
+                                <ns3:code>c7077c99-9</ns3:code>
+                                <ns3:name>Наличие консервантов</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>2</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978204</ns3:sid>
+                                        <ns3:qualityDescription>Нет</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897860</ns3:sid>
+                                <ns3:code>3c20c35a-0</ns3:code>
+                                <ns3:name>Тип джема</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>2</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978207</ns3:sid>
+                                        <ns3:qualityDescription>Фруктово-ягодный</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897855</ns3:sid>
+                                <ns3:code>aff987b4-9</ns3:code>
+                                <ns3:name>Вид сахарозаменителя</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>2</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978188</ns3:sid>
+                                        <ns3:qualityDescription>Фруктоза</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897859</ns3:sid>
+                                <ns3:code>4b3e43aa-e</ns3:code>
+                                <ns3:name>Продукт на основе сахарозаменителей</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>2</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978206</ns3:sid>
+                                        <ns3:qualityDescription>Да</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897856</ns3:sid>
+                                <ns3:code>60c10ae1-d</ns3:code>
+                                <ns3:name>Вид сырья</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>3</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978189</ns3:sid>
+                                        <ns3:qualityDescription>Абрикос</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978190</ns3:sid>
+                                        <ns3:qualityDescription>Вишня</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978191</ns3:sid>
+                                        <ns3:qualityDescription>Голубика</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978192</ns3:sid>
+                                        <ns3:qualityDescription>Груша</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978193</ns3:sid>
+                                        <ns3:qualityDescription>Ежевика</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978194</ns3:sid>
+                                        <ns3:qualityDescription>Земляника (клубника)</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978195</ns3:sid>
+                                        <ns3:qualityDescription>Клюква</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978196</ns3:sid>
+                                        <ns3:qualityDescription>Лимон</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978197</ns3:sid>
+                                        <ns3:qualityDescription>Малина</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978198</ns3:sid>
+                                        <ns3:qualityDescription>Манго</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978199</ns3:sid>
+                                        <ns3:qualityDescription>Персик</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978200</ns3:sid>
+                                        <ns3:qualityDescription>Слива</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978201</ns3:sid>
+                                        <ns3:qualityDescription>Черная смородина</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978202</ns3:sid>
+                                        <ns3:qualityDescription>Черника</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978203</ns3:sid>
+                                        <ns3:qualityDescription>Яблоко</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897854</ns3:sid>
+                                <ns3:code>e878f887-c</ns3:code>
+                                <ns3:name>Вид продукта по способу обработки</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>2</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978187</ns3:sid>
+                                        <ns3:qualityDescription>Стерилизованный</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                        </ns3:characteristics>
+                        <ns3:OKPD2>
+                            <ns2:OKPDCode>10.39.22.110</ns2:OKPDCode>
+                            <ns2:OKPDName>Джемы, желе фруктовые и ягодные</ns2:OKPDName>
+                        </ns3:OKPD2>
+                    </ns3:KTRU>
+                    <ns3:name>Джем</ns3:name>
+                    <ns3:OKEI>
+                        <ns2:code>166</ns2:code>
+                        <ns2:nationalCode>КГ</ns2:nationalCode>
+                        <ns2:name>Килограмм</ns2:name>
+                    </ns3:OKEI>
+                    <ns3:price>366</ns3:price>
+                    <ns3:quantity>
+                        <ns3:value>25</ns3:value>
+                    </ns3:quantity>
+                    <ns3:sum>9150</ns3:sum>
+                    <ns3:type>PRODUCT</ns3:type>
+                    <ns3:hierarchyType>ND</ns3:hierarchyType>
+                </ns3:purchaseObject>
+                <ns3:purchaseObject>
+                    <ns3:sid>174834199</ns3:sid>
+                    <ns3:KTRU>
+                        <ns2:code>10.39.11.000-00000015</ns2:code>
+                        <ns2:name>Овощи замороженные</ns2:name>
+                        <ns2:versionId>155027</ns2:versionId>
+                        <ns2:versionNumber>2</ns2:versionNumber>
+                        <ns3:characteristics>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897861</ns3:sid>
+                                <ns3:code>f0e27809-d</ns3:code>
+                                <ns3:name>Вид добавки в смесь овощную</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>3</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978208</ns3:sid>
+                                        <ns3:qualityDescription>Без добавок</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897862</ns3:sid>
+                                <ns3:code>c5eac380-7</ns3:code>
+                                <ns3:name>Вид кукурузы замороженной</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>2</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978209</ns3:sid>
+                                        <ns3:qualityDescription>Зерно</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897863</ns3:sid>
+                                <ns3:code>bce58037-c</ns3:code>
+                                <ns3:name>Вид овощей замороженных </ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>2</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978210</ns3:sid>
+                                        <ns3:qualityDescription>Резаные</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897864</ns3:sid>
+                                <ns3:code>31c6a153-5</ns3:code>
+                                <ns3:name>Вид товара </ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>1</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978211</ns3:sid>
+                                        <ns3:qualityDescription>Смесь овощная замороженная</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                            <ns3:characteristicsUsingReferenceInfo>
+                                <ns3:sid>187897865</ns3:sid>
+                                <ns3:code>3f5b3ddc-e</ns3:code>
+                                <ns3:name>Наименование овощей </ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:kind>3</ns3:kind>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>235978212</ns3:sid>
+                                        <ns3:qualityDescription>Баклажаны</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978213</ns3:sid>
+                                        <ns3:qualityDescription>Бамия</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978214</ns3:sid>
+                                        <ns3:qualityDescription>Горошек зеленый</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978215</ns3:sid>
+                                        <ns3:qualityDescription>Зелень петрушки</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978216</ns3:sid>
+                                        <ns3:qualityDescription>Зелень сельдерея</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978217</ns3:sid>
+                                        <ns3:qualityDescription>Зелень укропа</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978218</ns3:sid>
+                                        <ns3:qualityDescription>Кабачки</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978219</ns3:sid>
+                                        <ns3:qualityDescription>Капуста белокочанная</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978220</ns3:sid>
+                                        <ns3:qualityDescription>Капуста брокколи</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978221</ns3:sid>
+                                        <ns3:qualityDescription>Капуста брюссельская</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978222</ns3:sid>
+                                        <ns3:qualityDescription>Капуста кольраби</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978223</ns3:sid>
+                                        <ns3:qualityDescription>Капуста краснокочанная</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978224</ns3:sid>
+                                        <ns3:qualityDescription>Капуста савойская</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978225</ns3:sid>
+                                        <ns3:qualityDescription>Капуста цветная</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978226</ns3:sid>
+                                        <ns3:qualityDescription>Кукуруза</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978227</ns3:sid>
+                                        <ns3:qualityDescription>Лук зеленый</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978228</ns3:sid>
+                                        <ns3:qualityDescription>Лук порей</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978229</ns3:sid>
+                                        <ns3:qualityDescription>Лук репчатый</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978230</ns3:sid>
+                                        <ns3:qualityDescription>Морковь</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978231</ns3:sid>
+                                        <ns3:qualityDescription>Патиссоны</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978232</ns3:sid>
+                                        <ns3:qualityDescription>Перец сладкий</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978233</ns3:sid>
+                                        <ns3:qualityDescription>Петрушка корневая</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978234</ns3:sid>
+                                        <ns3:qualityDescription>Ревень</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978235</ns3:sid>
+                                        <ns3:qualityDescription>Редька</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978236</ns3:sid>
+                                        <ns3:qualityDescription>Репа</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978237</ns3:sid>
+                                        <ns3:qualityDescription>Свекла столовая</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978238</ns3:sid>
+                                        <ns3:qualityDescription>Сельдерей корневой</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978239</ns3:sid>
+                                        <ns3:qualityDescription>Спаржа</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978240</ns3:sid>
+                                        <ns3:qualityDescription>Томаты</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978241</ns3:sid>
+                                        <ns3:qualityDescription>Тыква</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978242</ns3:sid>
+                                        <ns3:qualityDescription>Фасоль стручковая</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978243</ns3:sid>
+                                        <ns3:qualityDescription>Чеснок</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978244</ns3:sid>
+                                        <ns3:qualityDescription>Шпинат</ns3:qualityDescription>
+                                    </ns3:value>
+                                    <ns3:value>
+                                        <ns3:sid>235978245</ns3:sid>
+                                        <ns3:qualityDescription>Щавель</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                            </ns3:characteristicsUsingReferenceInfo>
+                        </ns3:characteristics>
+                        <ns3:OKPD2>
+                            <ns2:OKPDCode>10.39.11.000</ns2:OKPDCode>
+                            <ns2:OKPDName>Овощи (кроме картофеля) и грибы замороженные</ns2:OKPDName>
+                        </ns3:OKPD2>
+                    </ns3:KTRU>
+                    <ns3:name>Овощи замороженные</ns3:name>
+                    <ns3:OKEI>
+                        <ns2:code>166</ns2:code>
+                        <ns2:nationalCode>КГ</ns2:nationalCode>
+                        <ns2:name>Килограмм</ns2:name>
+                    </ns3:OKEI>
+                    <ns3:price>1010</ns3:price>
+                    <ns3:quantity>
+                        <ns3:value>200</ns3:value>
+                    </ns3:quantity>
+                    <ns3:sum>202000</ns3:sum>
+                    <ns3:type>PRODUCT</ns3:type>
+                    <ns3:hierarchyType>ND</ns3:hierarchyType>
+                </ns3:purchaseObject>
+                <ns3:purchaseObject>
+                    <ns3:sid>174834200</ns3:sid>
+                    <ns3:OKPD2>
+                        <ns2:OKPDCode>10.72.12.120</ns2:OKPDCode>
+                        <ns2:OKPDName>Печенье сладкое</ns2:OKPDName>
+                    </ns3:OKPD2>
+                    <ns3:name>Печенье </ns3:name>
+                    <ns3:OKEI>
+                        <ns2:code>166</ns2:code>
+                        <ns2:nationalCode>КГ</ns2:nationalCode>
+                        <ns2:name>Килограмм</ns2:name>
+                    </ns3:OKEI>
+                    <ns3:price>628</ns3:price>
+                    <ns3:quantity>
+                        <ns3:value>160</ns3:value>
+                    </ns3:quantity>
+                    <ns3:sum>100480</ns3:sum>
+                    <ns3:type>PRODUCT</ns3:type>
+                    <ns3:hierarchyType>ND</ns3:hierarchyType>
+                </ns3:purchaseObject>
+                <ns3:purchaseObject>
+                    <ns3:sid>174834201</ns3:sid>
+                    <ns3:OKPD2>
+                        <ns2:OKPDCode>10.32.17.140</ns2:OKPDCode>
+                        <ns2:OKPDName>Смеси фруктовых и (или) овощных соков концентрированные</ns2:OKPDName>
+                    </ns3:OKPD2>
+                    <ns3:name>Сок в ассортименте</ns3:name>
+                    <ns3:OKEI>
+                        <ns2:code>728</ns2:code>
+                        <ns2:nationalCode>ПАЧ</ns2:nationalCode>
+                        <ns2:name>Пачка</ns2:name>
+                    </ns3:OKEI>
+                    <ns3:price>360</ns3:price>
+                    <ns3:quantity>
+                        <ns3:value>500</ns3:value>
+                    </ns3:quantity>
+                    <ns3:sum>180000</ns3:sum>
+                    <ns3:type>PRODUCT</ns3:type>
+                    <ns3:hierarchyType>ND</ns3:hierarchyType>
+                </ns3:purchaseObject>
+                <ns3:purchaseObject>
+                    <ns3:sid>174834202</ns3:sid>
+                    <ns3:OKPD2>
+                        <ns2:OKPDCode>10.39.25.134</ns2:OKPDCode>
+                        <ns2:OKPDName>Смеси сушеных фруктов (сухой компот)</ns2:OKPDName>
+                    </ns3:OKPD2>
+                    <ns3:name>Смеси сушеных фруктов (сухой компот)</ns3:name>
+                    <ns3:OKEI>
+                        <ns2:code>166</ns2:code>
+                        <ns2:nationalCode>КГ</ns2:nationalCode>
+                        <ns2:name>Килограмм</ns2:name>
+                    </ns3:OKEI>
+                    <ns3:price>504</ns3:price>
+                    <ns3:quantity>
+                        <ns3:value>120</ns3:value>
+                    </ns3:quantity>
+                    <ns3:sum>60480</ns3:sum>
+                    <ns3:type>PRODUCT</ns3:type>
+                    <ns3:hierarchyType>ND</ns3:hierarchyType>
+                </ns3:purchaseObject>
+                <ns3:purchaseObject>
+                    <ns3:sid>174834203</ns3:sid>
+                    <ns3:OKPD2>
+                        <ns2:OKPDCode>10.39.17.112</ns2:OKPDCode>
+                        <ns2:OKPDName>Паста томатная</ns2:OKPDName>
+                    </ns3:OKPD2>
+                    <ns3:name>Паста томатная</ns3:name>
+                    <ns3:OKEI>
+                        <ns2:code>796</ns2:code>
+                        <ns2:nationalCode>ШТ</ns2:nationalCode>
+                        <ns2:name>Штука</ns2:name>
+                    </ns3:OKEI>
+                    <ns3:price>238</ns3:price>
+                    <ns3:quantity>
+                        <ns3:value>10</ns3:value>
+                    </ns3:quantity>
+                    <ns3:sum>2380</ns3:sum>
+                    <ns3:type>PRODUCT</ns3:type>
+                    <ns3:hierarchyType>ND</ns3:hierarchyType>
+                </ns3:purchaseObject>
+                <ns3:purchaseObject>
+                    <ns3:sid>174834204</ns3:sid>
+                    <ns3:OKPD2>
+                        <ns2:OKPDCode>10.39.17.100</ns2:OKPDCode>
+                        <ns2:OKPDName>Овощи (кроме картофеля), консервированные без уксуса или уксусной кислоты, прочие (кроме готовых овощных блюд)</ns2:OKPDName>
+                    </ns3:OKPD2>
+                    <ns3:name>Кукуруза консервированная </ns3:name>
+                    <ns3:OKEI>
+                        <ns2:code>881</ns2:code>
+                        <ns2:nationalCode>УСЛ БАНК</ns2:nationalCode>
+                        <ns2:name>Условная банка</ns2:name>
+                    </ns3:OKEI>
+                    <ns3:price>287</ns3:price>
+                    <ns3:quantity>
+                        <ns3:value>20</ns3:value>
+                    </ns3:quantity>
+                    <ns3:sum>5740</ns3:sum>
+                    <ns3:type>PRODUCT</ns3:type>
+                    <ns3:hierarchyType>ND</ns3:hierarchyType>
+                </ns3:purchaseObject>
+                <ns3:totalSum>560230</ns3:totalSum>
+                <quantityUndefined>false</quantityUndefined>
+            </notDrugPurchaseObjectsInfo>
+        </purchaseObjectsInfo>
+        <preferensesInfo>
+            <preferenseInfo>
+                <ns3:preferenseRequirementInfo>
+                    <ns2:shortName>UG44</ns2:shortName>
+                    <ns2:name>Учреждениям и предприятиям уголовно-исполнительной системы (в соответствии со статьей 28
+            Федерального закона № 44-ФЗ)</ns2:name>
+                </ns3:preferenseRequirementInfo>
+                <ns3:prefValue>15.0</ns3:prefValue>
+            </preferenseInfo>
+            <preferenseInfo>
+                <ns3:preferenseRequirementInfo>
+                    <ns2:shortName>IN44</ns2:shortName>
+                    <ns2:name>Организациям инвалидов в соответствии со ст. 29 Закона № 44-ФЗ</ns2:name>
+                </ns3:preferenseRequirementInfo>
+                <ns3:prefValue>15.0</ns3:prefValue>
+            </preferenseInfo>
+        </preferensesInfo>
+        <requirementsInfo>
+            <requirementInfo>
+                <ns3:preferenseRequirementInfo>
+                    <ns2:shortName>ET44</ns2:shortName>
+                    <ns2:name>Единые требования к участникам закупок в соответствии с ч. 1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                </ns3:preferenseRequirementInfo>
+            </requirementInfo>
+        </requirementsInfo>
+        <flags>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+        </flags>
+    </notificationInfo>
+</ns7:epNotificationEF2020>

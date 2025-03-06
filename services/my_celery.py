@@ -13,7 +13,7 @@ app = Celery(
 
 app.conf.update(
     beat_max_loop_interval=6,
-    worker_max_tasks_per_child=2,
+    worker_max_tasks_per_child=4,
     task_serializer='json',
     result_serializer='json',
     timezone = 'Asia/Novosibirsk',

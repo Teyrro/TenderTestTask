@@ -1,16 +1,35 @@
-import redis
-from celery import Celery
+import asyncio
+import json
 
-from config import settings
+from celery import group
 
-mul_celery = Celery(
-    "mul_celery",
-    broker=settings.RABBITMQ_URL,
-    backend=settings.REDIS_URL,
-)
-mul_celery.conf.broker_connection_retry_on_startup = True
+from services.work_with_pages_service.async_pages_process import get_pages, get_xml_files
+from services.work_with_pages_service.tasks import take_links, parse_xml
 
-@mul_celery.task
-def mul(x, y):
-    return x * y
 
+def save_result(data):
+    with open("result.json", "w") as file:
+        json.dump(data, file, indent=4, ensure_ascii=False)
+
+def main():
+    ## TODO Some queries return a 404 error, so some tenders may not be found
+    pages_html = asyncio.run(get_pages())
+    job = group([
+        take_links.s(page) for page in pages_html
+    ])
+    pages_links = job.apply_async().get()
+
+    ## TODO Some queries return a 404 error, so some tenders may not be found
+    xml_files = asyncio.run(get_xml_files(pages_links))
+    job = group([
+        parse_xml.s(link, xml_file) for link, xml_file in xml_files
+    ])
+    publish_info = job.apply_async().get()
+
+    save_result(publish_info)
+
+
+
+
+if __name__ == '__main__':
+    main()

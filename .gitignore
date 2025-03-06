@@ -7,3 +7,4 @@
 __pycache__
 # Ignore dynaconf secret files
 config/.secrets.toml
+result.json

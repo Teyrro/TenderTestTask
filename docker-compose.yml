@@ -26,3 +26,17 @@ services:
     ports:
       - "${REDIS_PORT}:6379"
 
+  workers:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ./config/scripts/start_workers.sh
+    restart: always
+    container_name: workers
+    environment:
+      - RABBITMQ_HOST=rabbitmq
+      - REDIS_MASTER_HOST=redis
+      - POETRY_GROUP=celery_worker
+    links:
+      - redis
+      - rabbitmq

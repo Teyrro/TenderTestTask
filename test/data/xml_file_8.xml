@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?><ns7:epNotificationEZK2020 xmlns:ns7="http://zakupki.gov.ru/oos/printform/1" xmlns="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns2="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1" xmlns:ns4="http://zakupki.gov.ru/oos/types/1" xmlns:ns5="http://zakupki.gov.ru/oos/KOTypes/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" schemeVersion="15.0">
+    <id>38568256</id>
+    <versionNumber>1</versionNumber>
+    <commonInfo>
+        <purchaseNumber>0338200008625000038</purchaseNumber>
+        <docNumber>№0338200008625000038</docNumber>
+        <plannedPublishDate>2025-02-26+12:00</plannedPublishDate>
+        <publishDTInEIS>2025-02-26T09:36:52.934+12:00</publishDTInEIS>
+        <href>https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0338200008625000038</href>
+        <notPublishedOnEIS>true</notPublishedOnEIS>
+        <placingWay>
+            <ns2:code>ZKP20</ns2:code>
+            <ns2:name>Запрос котировок в электронной форме</ns2:name>
+        </placingWay>
+        <ETP>
+            <ns2:code>ETP_EETP</ns2:code>
+            <ns2:name>РОСЭЛТОРГ (АО«ЕЭТП»)</ns2:name>
+            <ns2:url>http://roseltorg.ru</ns2:url>
+        </ETP>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <purchaseObjectInfo>Поставка изделий медицинского назначения (наборы для катетеризации центральных вен)</purchaseObjectInfo>
+    </commonInfo>
+    <purchaseResponsibleInfo>
+        <responsibleOrgInfo>
+            <regNum>03382000086</regNum>
+            <consRegistryNum>302Ц0981</consRegistryNum>
+            <fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "КАМЧАТСКАЯ КРАЕВАЯ ДЕТСКАЯ БОЛЬНИЦА"</fullName>
+            <shortName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "КАМЧАТСКАЯ КРАЕВАЯ ДЕТСКАЯ БОЛЬНИЦА"</shortName>
+            <postAddress>Российская Федерация, 683024, Камчатский край, Петропавловск-Камчатский г, УЛ. ОРДЖОНИКИДЗЕ, Д.7</postAddress>
+            <factAddress>Российская Федерация, 683024, Камчатский край, Петропавловск-Камчатский г, УЛ. ОРДЖОНИКИДЗЕ, Д.7</factAddress>
+            <INN>4101041963</INN>
+            <KPP>410101001</KPP>
+        </responsibleOrgInfo>
+        <responsibleRole>CU</responsibleRole>
+        <responsibleInfo>
+            <orgPostAddress>Российская Федерация, 683024, Камчатский край, Петропавловск-Камчатский г, УЛ. ОРДЖОНИКИДЗЕ, Д.7</orgPostAddress>
+            <orgFactAddress>Российская Федерация, 683024, Камчатский край, Петропавловск-Камчатский г, УЛ. ОРДЖОНИКИДЗЕ, Д.7</orgFactAddress>
+            <contactPersonInfo>
+                <ns3:lastName>Лебедева</ns3:lastName>
+                <ns3:firstName>Е.</ns3:firstName>
+                <ns3:middleName>А.</ns3:middleName>
+            </contactPersonInfo>
+            <contactEMail>guz.kkdb@mail.ru</contactEMail>
+            <contactPhone>8-4152-230437</contactPhone>
+        </responsibleInfo>
+    </purchaseResponsibleInfo>
+    <printFormInfo>
+        <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/view.html?regNumber=0338200008625000038</ns3:url>
+    </printFormInfo>
+    <attachmentsInfo>
+        <ns3:attachmentInfo>
+            <ns3:publishedContentId>69F0CBB8436F4CD2844D0B6345140F22</ns3:publishedContentId>
+            <ns3:fileName>Обоснование НМЦК (наборы для КЦВ).xlsx</ns3:fileName>
+            <ns3:fileSize>24694</ns3:fileSize>
+            <ns3:docDescription>Обоснование НМЦК (наборы для КЦВ)</ns3:docDescription>
+            <ns3:docDate>2025-02-26T00:31:39+03:00</ns3:docDate>
+            <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=69F0CBB8436F4CD2844D0B6345140F22</ns3:url>
+            <ns3:docKindInfo>
+                <ns2:code>MRJ</ns2:code>
+                <ns2:name>Обоснование начальной (максимальной) цены контракта</ns2:name>
+            </ns3:docKindInfo>
+        </ns3:attachmentInfo>
+        <ns3:attachmentInfo>
+            <ns3:publishedContentId>93F52B2CD797422FA24E0406958685FF</ns3:publishedContentId>
+            <ns3:fileName>Проект контракта наборы для КЦВ.docx</ns3:fileName>
+            <ns3:fileSize>57221</ns3:fileSize>
+            <ns3:docDescription>Проект контракта наборы для КЦВ</ns3:docDescription>
+            <ns3:docDate>2025-02-26T00:31:45+03:00</ns3:docDate>
+            <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=93F52B2CD797422FA24E0406958685FF</ns3:url>
+            <ns3:docKindInfo>
+                <ns2:code>CP</ns2:code>
+                <ns2:name>Проект контракта</ns2:name>
+            </ns3:docKindInfo>
+        </ns3:attachmentInfo>
+        <ns3:attachmentInfo>
+            <ns3:publishedContentId>607BB316CDC849A1986C4AC35C4614FA</ns3:publishedContentId>
+            <ns3:fileName>Описание объекта закупки (наборы для КЦВ).xlsx</ns3:fileName>
+            <ns3:fileSize>18523</ns3:fileSize>
+            <ns3:docDescription>Описание объекта закупки (наборы для КЦВ)</ns3:docDescription>
+            <ns3:docDate>2025-02-26T00:32:49+03:00</ns3:docDate>
+            <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=607BB316CDC849A1986C4AC35C4614FA</ns3:url>
+            <ns3:docKindInfo>
+                <ns2:code>POD</ns2:code>
+                <ns2:name>Описание объекта закупки</ns2:name>
+            </ns3:docKindInfo>
+        </ns3:attachmentInfo>
+        <ns3:attachmentInfo>
+            <ns3:publishedContentId>7943DAB2AFD34E13B8C5801D9CB1681B</ns3:publishedContentId>
+            <ns3:fileName>Требование к содержанию, составу заявки (2).docx</ns3:fileName>
+            <ns3:fileSize>28839</ns3:fileSize>
+            <ns3:docDescription>Требование к содержанию, составу заявки (2)</ns3:docDescription>
+            <ns3:docDate>2025-02-26T00:32:57+03:00</ns3:docDate>
+            <ns3:url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=7943DAB2AFD34E13B8C5801D9CB1681B</ns3:url>
+            <ns3:docKindInfo>
+                <ns2:code>CAR</ns2:code>
+                <ns2:name>Требование к содержанию, составу заявки на участие в закупке</ns2:name>
+            </ns3:docKindInfo>
+        </ns3:attachmentInfo>
+    </attachmentsInfo>
+    <serviceSigns>
+        <isControlP1Ch5St99>false</isControlP1Ch5St99>
+    </serviceSigns>
+    <notificationInfo>
+        <procedureInfo>
+            <collectingInfo>
+                <startDT>2025-02-26T09:36:52+12:00</startDT>
+                <endDT>2025-03-05T10:00:00+12:00</endDT>
+            </collectingInfo>
+            <summarizingDate>2025-03-07+12:00</summarizingDate>
+        </procedureInfo>
+        <contractConditionsInfo>
+            <maxPriceInfo>
+                <maxPrice>637037.5</maxPrice>
+                <currency>
+                    <ns2:code>RUB</ns2:code>
+                    <ns2:name>РОССИЙСКИЙ РУБЛЬ</ns2:name>
+                </currency>
+            </maxPriceInfo>
+            <standardContractNumber>1400700000419023</standardContractNumber>
+        </contractConditionsInfo>
+        <customerRequirementsInfo>
+            <customerRequirementInfo>
+                <customer>
+                    <ns2:regNum>03382000086</ns2:regNum>
+                    <ns2:consRegistryNum>302Ц0981</ns2:consRegistryNum>
+                    <ns2:fullName>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "КАМЧАТСКАЯ КРАЕВАЯ ДЕТСКАЯ БОЛЬНИЦА"</ns2:fullName>
+                </customer>
+                <applicationGuarantee>
+                    <amount>6370.38</amount>
+                    <account>
+                        <ns3:bik>013002402</ns3:bik>
+                        <ns3:settlementAccount>03224643300000003800</ns3:settlementAccount>
+                        <ns3:personalAccount>20386Ц09810 </ns3:personalAccount>
+                        <ns3:creditOrgName>Отделение Петропавловск-Камчатский Банка России//УФК по Камчатскому краю г. Петропавловск-Камчатский</ns3:creditOrgName>
+                        <ns3:corrAccountNumber>40102810945370000031</ns3:corrAccountNumber>
+                    </account>
+                    <procedureInfo>Обеспечение заявки на участие в закупке предоставляется одним из следующих способов: а) путем блокирования денежных средств, внесенных участником закупки на банковский счет, открытый таким участником в банке, включенном в перечень, утвержденный Правительством Российской Федерации (далее - специальный счет). Требования к таким банкам, к договору специального счета, к порядку использования имеющегося у участника закупки банковского счета в качестве специального счета устанавливаются Правительством Российской Федерации; б) путем предоставления независимой гарантии, соответствующей требованиям статьи 45 настоящего Федерального закона. В случае предоставления обеспечения заявки на участие в закупке в виде денежных средств: а) подача заявки на участие в закупке означает согласие участника закупки на блокирование денежных средств, находящихся на его специальном счете, в размере обеспечения заявки на участие в закупке</procedureInfo>
+                    <part>1.0</part>
+                </applicationGuarantee>
+                <contractGuarantee>
+                    <account>
+                        <ns3:bik>013002402</ns3:bik>
+                        <ns3:settlementAccount>03224643300000003800</ns3:settlementAccount>
+                        <ns3:personalAccount>20386Ц09810 </ns3:personalAccount>
+                        <ns3:creditOrgName>Отделение Петропавловск-Камчатский Банка России//УФК по Камчатскому краю г. Петропавловск-Камчатский</ns3:creditOrgName>
+                        <ns3:corrAccountNumber>40102810945370000031</ns3:corrAccountNumber>
+                    </account>
+                    <procedureInfo>Размер обеспечения исполнения Контракта устанавливается в размере 10 % цены контракта а в случае если при проведении аукциона участником закупки - Поставщиком, предложена цена контракта, которая на 25 и более процентов ниже начальной (максимальной) цены контракта, при непредоставлении таким участником информации, подтверждающей его добросовестность на дату подачи заявки в соответствии с частью 3 статьи 37 Федерального Закона от 05.04.2013 № 44-ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для государственных и муниципальных нужд», контракт заключается после предоставления таким участником обеспечения исполнения контракта в размере, превышающим в полтора раза размер обеспечения исполнения контракта, указанный в извещении об осуществлении закупки от цены заключаемого контракта или предоставление информации, подтверждающей добросовестность такого участника в соответствии с частью 3 статьи 37 Закона о контрактной системе, с одновременным предоставлением таким участником обеспечения исполнения контракта в размере обеспечения исполнения контракта, указанном в извещении о закупке.</procedureInfo>
+                    <part>10.0</part>
+                </contractGuarantee>
+                <contractConditionsInfo>
+                    <maxPriceInfo>
+                        <maxPrice>637037.5</maxPrice>
+                    </maxPriceInfo>
+                    <IKZInfo>
+                        <purchaseCode>252410104196341010100100060050000244</purchaseCode>
+                        <publishYear>2025</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns2:code>244</ns2:code>
+                                <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>24101041963410101001</customerCode>
+                        <purchaseNumber>0006</purchaseNumber>
+                        <purchaseOrderNumber>005</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202503382000086001</ns3:plan2020Number>
+                        <ns3:position2020Number>202503382000086001000006</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <contractExecutionTermsInfo>
+                            <ns3:notRelativeTermsInfo>
+                                <ns3:isFromConclusionDate>true</ns3:isFromConclusionDate>
+                                <ns3:endDate>2025-06-30+03:00</ns3:endDate>
+                            </ns3:notRelativeTermsInfo>
+                        </contractExecutionTermsInfo>
+                        <financingSourcesInfo>
+                            <nonbudgetFinancingsInfo>
+                                <selfFunds>true</selfFunds>
+                            </nonbudgetFinancingsInfo>
+                            <currentYear>2025</currentYear>
+                            <financeInfo>
+                                <total>637037.5</total>
+                                <currentYear>637037.5</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <stagesInfo>
+                            <stageInfo>
+                                <sid>13823390</sid>
+                                <termsInfo>
+                                    <ns3:notRelativeTermsInfo>
+                                        <ns3:isFromConclusionDate>true</ns3:isFromConclusionDate>
+                                        <ns3:endDate>2025-06-30+03:00</ns3:endDate>
+                                    </ns3:notRelativeTermsInfo>
+                                </termsInfo>
+                                <nonbudgetFinancingInfo>
+                                    <paymentYearInfo>
+                                        <total>637037.5</total>
+                                        <currentYear>637037.5</currentYear>
+                                        <firstYear>0</firstYear>
+                                        <secondYear>0</secondYear>
+                                        <subsecYears>0</subsecYears>
+                                    </paymentYearInfo>
+                                    <KVRsInfo>
+                                        <ns3:currentYear>2025</ns3:currentYear>
+                                        <ns3:KVRInfo>
+                                            <ns3:KVR>
+                                                <ns2:code>244</ns2:code>
+                                                <ns2:name>Прочая закупка товаров, работ и услуг</ns2:name>
+                                            </ns3:KVR>
+                                            <ns3:KVRYearsInfo>
+                                                <ns3:total>637037.5</ns3:total>
+                                                <ns3:currentYear>637037.5</ns3:currentYear>
+                                                <ns3:firstYear>0</ns3:firstYear>
+                                                <ns3:secondYear>0</ns3:secondYear>
+                                                <ns3:subsecYears>0</ns3:subsecYears>
+                                            </ns3:KVRYearsInfo>
+                                        </ns3:KVRInfo>
+                                        <ns3:totalSum>637037.5</ns3:totalSum>
+                                    </KVRsInfo>
+                                </nonbudgetFinancingInfo>
+                            </stageInfo>
+                        </stagesInfo>
+                    </contractExecutionPaymentPlan>
+                    <deliveryPlacesInfo>
+                        <byGARInfo>
+                            <ns3:sid>51487574</ns3:sid>
+                            <ns3:countryInfo>
+                                <ns2:countryCode>643</ns2:countryCode>
+                                <ns2:countryFullName>Российская Федерация</ns2:countryFullName>
+                            </ns3:countryInfo>
+                            <ns3:GARInfo>
+                                <ns3:GARGuid>e63d63ee-e3be-418d-bee9-3daadb2cf4fa</ns3:GARGuid>
+                                <ns3:GARAddress>край Камчатский, г.о. Петропавловск-Камчатский, г Петропавловск-Камчатский, ул Орджоникидзе, дом 7</ns3:GARAddress>
+                            </ns3:GARInfo>
+                            <ns3:deliveryPlace>. Поставка Товара осуществляется Поставщиком с разгрузкой с транспортного средства по адресу: 683024, г. Петропавловск-Камчатский, ул. Орджоникидзе, 7, ГБУЗ «Камчатская краевая детская больница» (далее - Место доставки), в помещение, указанное ответственным сотрудником, в рабочее время (с 9-00 до 16-00, с понедельника по пятницу). Поставка товара осуществляется одной партией товара в течение 45 (сорока пяти) календарных дней со дня, следующего за днем подписания контракта. </ns3:deliveryPlace>
+                        </byGARInfo>
+                    </deliveryPlacesInfo>
+                    <isOneSideRejectionSt95>true</isOneSideRejectionSt95>
+                </contractConditionsInfo>
+            </customerRequirementInfo>
+        </customerRequirementsInfo>
+        <purchaseObjectsInfo>
+            <notDrugPurchaseObjectsInfo>
+                <ns3:purchaseObject>
+                    <ns3:sid>174840576</ns3:sid>
+                    <ns3:KTRU>
+                        <ns2:code>32.50.13.110-00005159</ns2:code>
+                        <ns2:name>Набор для катетеризации центральных вен, кратковременного использования</ns2:name>
+                        <ns2:versionId>80247</ns2:versionId>
+                        <ns2:versionNumber>1</ns2:versionNumber>
+                        <ns3:characteristics>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187914298</ns3:sid>
+                                <ns3:name>Набор стерильных изделий и материалов, предназначенных для использования при кратковременной (сроком не более 30 дней) катетеризации центральных вен с целью проведения различных (т.е., неспециализированных) процедур инфузии/аспирации. Набор, часто называемый лотком, включает неимплантируемый центральный венозный катетер и изделия, специально предназначенные для введения/обеспечения функционирования катетера (например, интродьюсер, проводник), а также неспециализированные вспомогательные изделия (например, простыню, перевязочные материалы, скальпель). Это изделие для одноразового использования</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495742</ns3:sid>
+                                        <ns3:qualityDescription>Соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187914299</ns3:sid>
+                                <ns3:name>Состав набора:</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495743</ns3:sid>
+                                        <ns3:qualityDescription>Катетер - 1 шт, игла - 1 шт, проводник - 1 шт, скальпель - 1 шт, шприц - 1 шт</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187914300</ns3:sid>
+                                <ns3:name>Катетер, материал изготовления</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495744</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть полупрозрачный, изготовленный из нетоксичного, термолабильного особо мягкого материала, рентгеноконтрастный</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187914301</ns3:sid>
+                                <ns3:name>Катетер</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495745</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть одноканальным, с несмываемой разметкой в см, мягким атравматичным кончиком и соединителем Люэр лок, маркировкой канала и зажимом</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187914302</ns3:sid>
+                                <ns3:name>Коннекторы</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495746</ns3:sid>
+                                        <ns3:qualityDescription>Должны быть Луер-лок с заглушками и обозначением проксимального и дистального кончика катетера</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187914303</ns3:sid>
+                                <ns3:name>Неподвижные крылья с нанесенной размерностью катетера, количество пар</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495747</ns3:sid>
+                                        <ns3:qualityDescription>1 или 2</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187914304</ns3:sid>
+                                <ns3:name>Передвигаемые по всей длине и фиксируемые крылышки, количество пар</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495748</ns3:sid>
+                                        <ns3:qualityDescription>1 или 2</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187915864</ns3:sid>
+                                <ns3:name>Передвигаемые фиксирующие зажимы</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495749</ns3:sid>
+                                        <ns3:qualityDescription>Наличие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187915865</ns3:sid>
+                                <ns3:name>Диаметр</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495750</ns3:sid>
+                                        <ns3:qualityDescription>3 F</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187915866</ns3:sid>
+                                <ns3:name>Длина</ns3:name>
+                                <ns3:type>2</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495751</ns3:sid>
+                                        <ns3:OKEI>
+                                            <ns2:code>004</ns2:code>
+                                            <ns2:nationalCode>СМ</ns2:nationalCode>
+                                            <ns2:name>Сантиметр</ns2:name>
+                                        </ns3:OKEI>
+                                        <ns3:rangeSet>
+                                            <ns3:valueRange>
+                                                <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                <ns3:min>10</ns3:min>
+                                                <ns3:maxMathNotation>lessOrEqual</ns3:maxMathNotation>
+                                                <ns3:max>13</ns3:max>
+                                            </ns3:valueRange>
+                                        </ns3:rangeSet>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187915867</ns3:sid>
+                                <ns3:name>Игла Сельдингера</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495752</ns3:sid>
+                                        <ns3:qualityDescription>Должна быть с прозрачным павильоном и съемными пальцевыми упорами</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187918275</ns3:sid>
+                                <ns3:name>На внутренней кромке иглы снята фаска</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495753</ns3:sid>
+                                        <ns3:qualityDescription>Полное соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187918276</ns3:sid>
+                                <ns3:name>Размер</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495754</ns3:sid>
+                                        <ns3:qualityDescription>20 G</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187918277</ns3:sid>
+                                <ns3:name>Игла, длина</ns3:name>
+                                <ns3:type>2</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495755</ns3:sid>
+                                        <ns3:OKEI>
+                                            <ns2:code>004</ns2:code>
+                                            <ns2:nationalCode>СМ</ns2:nationalCode>
+                                            <ns2:name>Сантиметр</ns2:name>
+                                        </ns3:OKEI>
+                                        <ns3:rangeSet>
+                                            <ns3:valueRange>
+                                                <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                <ns3:min>3.8</ns3:min>
+                                                <ns3:maxMathNotation>lessOrEqual</ns3:maxMathNotation>
+                                                <ns3:max>4.8</ns3:max>
+                                            </ns3:valueRange>
+                                        </ns3:rangeSet>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187918278</ns3:sid>
+                                <ns3:name>Мотыльковый клапан с зажимом</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495756</ns3:sid>
+                                        <ns3:qualityDescription>Наличие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187918279</ns3:sid>
+                                <ns3:name>Проводник</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495757</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть гибкий, изгибоустойчивый J-образный проводник в пластмассовом футляре с пальцевым упором</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187918280</ns3:sid>
+                                <ns3:name>Проводник, размер</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495758</ns3:sid>
+                                        <ns3:qualityDescription>0,022 дюйм</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187918281</ns3:sid>
+                                <ns3:name>Проводник,длина</ns3:name>
+                                <ns3:type>2</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495759</ns3:sid>
+                                        <ns3:OKEI>
+                                            <ns2:code>004</ns2:code>
+                                            <ns2:nationalCode>СМ</ns2:nationalCode>
+                                            <ns2:name>Сантиметр</ns2:name>
+                                        </ns3:OKEI>
+                                        <ns3:rangeSet>
+                                            <ns3:valueRange>
+                                                <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                <ns3:min>40</ns3:min>
+                                                <ns3:maxMathNotation>lessOrEqual</ns3:maxMathNotation>
+                                                <ns3:max>50</ns3:max>
+                                            </ns3:valueRange>
+                                        </ns3:rangeSet>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921105</ns3:sid>
+                                <ns3:name>Дилататор</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495760</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть с луер-лок соединением</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921106</ns3:sid>
+                                <ns3:name>Дилататор,диаметр</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495761</ns3:sid>
+                                        <ns3:qualityDescription>4 F</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921107</ns3:sid>
+                                <ns3:name>Дилататор,длина</ns3:name>
+                                <ns3:type>2</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495762</ns3:sid>
+                                        <ns3:OKEI>
+                                            <ns2:code>004</ns2:code>
+                                            <ns2:nationalCode>СМ</ns2:nationalCode>
+                                            <ns2:name>Сантиметр</ns2:name>
+                                        </ns3:OKEI>
+                                        <ns3:rangeSet>
+                                            <ns3:valueRange>
+                                                <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                <ns3:min>10</ns3:min>
+                                                <ns3:maxMathNotation>lessOrEqual</ns3:maxMathNotation>
+                                                <ns3:max>15</ns3:max>
+                                            </ns3:valueRange>
+                                        </ns3:rangeSet>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921108</ns3:sid>
+                                <ns3:name>Шприц</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495763</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть двухкомпонентный</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921109</ns3:sid>
+                                <ns3:name>Объём</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495764</ns3:sid>
+                                        <ns3:qualityDescription>≥ 2 мл</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921110</ns3:sid>
+                                <ns3:name>Доп. градуировка</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495765</ns3:sid>
+                                        <ns3:qualityDescription>до 2.5 мл</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921111</ns3:sid>
+                                <ns3:name>Материал шприца совместим с жидкостями для инъекций</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495766</ns3:sid>
+                                        <ns3:qualityDescription>Полное соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921112</ns3:sid>
+                                <ns3:name>Скальпель</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495767</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть с защитным механизмом</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921113</ns3:sid>
+                                <ns3:name>Размер скальпеля ( указан на ручке-держателе)</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495768</ns3:sid>
+                                        <ns3:qualityDescription>№10 или №11</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921114</ns3:sid>
+                                <ns3:name>Скальпель стерильный (метод стерилизации - гамма-излучение)</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495769</ns3:sid>
+                                        <ns3:qualityDescription>Полное соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921115</ns3:sid>
+                                <ns3:name>Скальпель должен быть</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495770</ns3:sid>
+                                        <ns3:qualityDescription>стерильный, изготовлен из высококачественной медицинской нержавеющей стали</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187921116</ns3:sid>
+                                <ns3:name>Каждый катетер имеет индивидуальную эргономичную, герметичную, упаковку (стерильный блистер)</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495771</ns3:sid>
+                                        <ns3:qualityDescription>Полное соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:addCharacteristicInfoReason>В связи с отсутствием в Каталоге товаров, работ, услуг характеристик закупаемого товара и на основании Постановления Правительства РФ от 08.02.2017 г № 145 и Правил использования каталога товаров, работ, услуг для обеспечения государственных и муниципальных нужд», заказчиком применены функциональные, технические, качественные, эксплуатационные характеристики товара в соответствии с положениями статьи 33 Федерального закона, которые не предусмотрены в позиции каталога.</ns3:addCharacteristicInfoReason>
+                        </ns3:characteristics>
+                        <ns3:OKPD2>
+                            <ns2:OKPDCode>32.50.13.110</ns2:OKPDCode>
+                            <ns2:OKPDName>Шприцы, иглы, катетеры, канюли и аналогичные инструменты</ns2:OKPDName>
+                        </ns3:OKPD2>
+                    </ns3:KTRU>
+                    <ns3:name>Набор для катетеризации центральных вен, кратковременного использования</ns3:name>
+                    <ns3:OKEI>
+                        <ns2:code>796</ns2:code>
+                        <ns2:nationalCode>ШТ</ns2:nationalCode>
+                        <ns2:name>Штука</ns2:name>
+                    </ns3:OKEI>
+                    <ns3:price>2548.15</ns3:price>
+                    <ns3:quantity>
+                        <ns3:value>150</ns3:value>
+                    </ns3:quantity>
+                    <ns3:sum>382222.5</ns3:sum>
+                    <ns3:isMedicalProduct>true</ns3:isMedicalProduct>
+                    <ns3:type>PRODUCT</ns3:type>
+                    <ns3:hierarchyType>ND</ns3:hierarchyType>
+                    <ns3:restrictionsInfo>
+                        <ns3:isProhibitionForeignPurchaseObjects>false</ns3:isProhibitionForeignPurchaseObjects>
+                        <ns3:isRestrictForeignPurchaseObjects>true</ns3:isRestrictForeignPurchaseObjects>
+                        <ns3:isPreferenseRFPurchaseObjects>false</ns3:isPreferenseRFPurchaseObjects>
+                        <ns3:isImposibilityProhibition>false</ns3:isImposibilityProhibition>
+                    </ns3:restrictionsInfo>
+                </ns3:purchaseObject>
+                <ns3:purchaseObject>
+                    <ns3:sid>174850944</ns3:sid>
+                    <ns3:KTRU>
+                        <ns2:code>32.50.13.110-00005159</ns2:code>
+                        <ns2:name>Набор для катетеризации центральных вен, кратковременного использования</ns2:name>
+                        <ns2:versionId>80247</ns2:versionId>
+                        <ns2:versionNumber>1</ns2:versionNumber>
+                        <ns3:characteristics>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934371</ns3:sid>
+                                <ns3:name>Набор стерильных изделий и материалов, предназначенных для использования при кратковременной (сроком не более 30 дней) катетеризации центральных вен с целью проведения различных (т.е., неспециализированных) процедур инфузии/аспирации. Набор, часто называемый лотком, включает неимплантируемый центральный венозный катетер и изделия, специально предназначенные для введения/обеспечения функционирования катетера (например, интродьюсер, проводник), а также неспециализированные вспомогательные изделия (например, простыню, перевязочные материалы, скальпель). Это изделие для одноразового использования</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495713</ns3:sid>
+                                        <ns3:qualityDescription>Соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934372</ns3:sid>
+                                <ns3:name>Состав набора:</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495714</ns3:sid>
+                                        <ns3:qualityDescription>Катетер - 1 шт, игла - 1 шт, проводник - 1 шт, скальпель - 1 шт, шприц - 1 шт</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934373</ns3:sid>
+                                <ns3:name>Катетер, материал изготовления</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495715</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть полупрозрачный, изготовленный из нетоксичного, термолабильного особо мягкого материала, рентгеноконтрастный</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934374</ns3:sid>
+                                <ns3:name>Катетер</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495716</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть одноканальным, с несмываемой разметкой в см, мягким атравматичным кончиком и соединителем Люэр лок, маркировкой канала и зажимом</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934375</ns3:sid>
+                                <ns3:name>Коннекторы</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495717</ns3:sid>
+                                        <ns3:qualityDescription>Должны быть Луер-лок с заглушками и обозначением проксимального и дистального кончика катетера</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934376</ns3:sid>
+                                <ns3:name>Неподвижные крылья с нанесенной размерностью катетера, количество пар</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495718</ns3:sid>
+                                        <ns3:qualityDescription>1 или 2</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934377</ns3:sid>
+                                <ns3:name>Передвигаемые по всей длине и фиксируемые крылышки, количество пар</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495719</ns3:sid>
+                                        <ns3:qualityDescription>1 или 2</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934378</ns3:sid>
+                                <ns3:name>Передвигаемые фиксирующие зажимы</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495720</ns3:sid>
+                                        <ns3:qualityDescription>Наличие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934379</ns3:sid>
+                                <ns3:name>Диаметр</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495721</ns3:sid>
+                                        <ns3:qualityDescription>4 F</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934380</ns3:sid>
+                                <ns3:name>Длина</ns3:name>
+                                <ns3:type>2</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495722</ns3:sid>
+                                        <ns3:OKEI>
+                                            <ns2:code>004</ns2:code>
+                                            <ns2:nationalCode>СМ</ns2:nationalCode>
+                                            <ns2:name>Сантиметр</ns2:name>
+                                        </ns3:OKEI>
+                                        <ns3:rangeSet>
+                                            <ns3:valueRange>
+                                                <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                <ns3:min>14</ns3:min>
+                                                <ns3:maxMathNotation>lessOrEqual</ns3:maxMathNotation>
+                                                <ns3:max>15</ns3:max>
+                                            </ns3:valueRange>
+                                        </ns3:rangeSet>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>187934381</ns3:sid>
+                                <ns3:name>Игла Сельдингера</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495723</ns3:sid>
+                                        <ns3:qualityDescription>Должна быть с прозрачным павильоном и съемными пальцевыми упорами</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188300962</ns3:sid>
+                                <ns3:name>На внутренней кромке иглы снята фаска</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495724</ns3:sid>
+                                        <ns3:qualityDescription>Полное соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188300963</ns3:sid>
+                                <ns3:name>Игла, размер</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495725</ns3:sid>
+                                        <ns3:qualityDescription>19 G</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188300964</ns3:sid>
+                                <ns3:name>Игла, длина</ns3:name>
+                                <ns3:type>2</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495726</ns3:sid>
+                                        <ns3:OKEI>
+                                            <ns2:code>004</ns2:code>
+                                            <ns2:nationalCode>СМ</ns2:nationalCode>
+                                            <ns2:name>Сантиметр</ns2:name>
+                                        </ns3:OKEI>
+                                        <ns3:rangeSet>
+                                            <ns3:valueRange>
+                                                <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                <ns3:min>3.8</ns3:min>
+                                                <ns3:maxMathNotation>lessOrEqual</ns3:maxMathNotation>
+                                                <ns3:max>5</ns3:max>
+                                            </ns3:valueRange>
+                                        </ns3:rangeSet>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188300965</ns3:sid>
+                                <ns3:name>Мотыльковый клапан с зажимом</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495727</ns3:sid>
+                                        <ns3:qualityDescription>Наличие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301029</ns3:sid>
+                                <ns3:name>Проводник</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495728</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть гибкий, изгибоустойчивый J-образный проводник в пластмассовом футляре с пальцевым упором</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301030</ns3:sid>
+                                <ns3:name>Размер</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495729</ns3:sid>
+                                        <ns3:qualityDescription>0,027 дюйм</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301031</ns3:sid>
+                                <ns3:name>Дилататор</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495730</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть с луер-лок соединением</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301032</ns3:sid>
+                                <ns3:name>Дилататор, диаметр</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495731</ns3:sid>
+                                        <ns3:qualityDescription>5 F</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301033</ns3:sid>
+                                <ns3:name>Дилататор, длина</ns3:name>
+                                <ns3:type>2</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495732</ns3:sid>
+                                        <ns3:OKEI>
+                                            <ns2:code>004</ns2:code>
+                                            <ns2:nationalCode>СМ</ns2:nationalCode>
+                                            <ns2:name>Сантиметр</ns2:name>
+                                        </ns3:OKEI>
+                                        <ns3:rangeSet>
+                                            <ns3:valueRange>
+                                                <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                <ns3:min>10</ns3:min>
+                                                <ns3:maxMathNotation>lessOrEqual</ns3:maxMathNotation>
+                                                <ns3:max>15</ns3:max>
+                                            </ns3:valueRange>
+                                        </ns3:rangeSet>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301088</ns3:sid>
+                                <ns3:name>Шприц</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495733</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть двухкомпонентный</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301089</ns3:sid>
+                                <ns3:name>Объём</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495734</ns3:sid>
+                                        <ns3:qualityDescription>2 или 5 мл</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301090</ns3:sid>
+                                <ns3:name>Материал шприца совместим с жидкостями для инъекций</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495735</ns3:sid>
+                                        <ns3:qualityDescription>Полное соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301091</ns3:sid>
+                                <ns3:name>Скальпель</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495736</ns3:sid>
+                                        <ns3:qualityDescription>Должен быть с защитным механизмом</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301105</ns3:sid>
+                                <ns3:name>Размер скальпеля ( указан на ручке-держателе)</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495737</ns3:sid>
+                                        <ns3:qualityDescription>№10 или №11</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301106</ns3:sid>
+                                <ns3:name>Скальпель стерильный (метод стерилизации - гамма-излучение)</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495738</ns3:sid>
+                                        <ns3:qualityDescription>Полное соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301125</ns3:sid>
+                                <ns3:name>Скальпель должен быть</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495739</ns3:sid>
+                                        <ns3:qualityDescription>стерильный, изготовлен из высококачественной медицинской нержавеющей стали</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301126</ns3:sid>
+                                <ns3:name>Каждый катетер имеет индивидуальную эргономичную, герметичную, упаковку (стерильный блистер)</ns3:name>
+                                <ns3:type>1</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>6</ns2:code>
+                                    <ns2:name>Значение характеристики не может изменяться участником закупки</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495740</ns3:sid>
+                                        <ns3:qualityDescription>Полное соответствие</ns3:qualityDescription>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:characteristicsUsingTextForm>
+                                <ns3:sid>188301238</ns3:sid>
+                                <ns3:name>Проводник, длина</ns3:name>
+                                <ns3:type>2</ns3:type>
+                                <ns3:characteristicsFillingInstruction>
+                                    <ns2:code>2</ns2:code>
+                                    <ns2:name>Участник закупки указывает в заявке конкретное значение характеристики</ns2:name>
+                                </ns3:characteristicsFillingInstruction>
+                                <ns3:values>
+                                    <ns3:value>
+                                        <ns3:sid>236495741</ns3:sid>
+                                        <ns3:OKEI>
+                                            <ns2:code>004</ns2:code>
+                                            <ns2:nationalCode>СМ</ns2:nationalCode>
+                                            <ns2:name>Сантиметр</ns2:name>
+                                        </ns3:OKEI>
+                                        <ns3:rangeSet>
+                                            <ns3:valueRange>
+                                                <ns3:minMathNotation>greaterOrEqual</ns3:minMathNotation>
+                                                <ns3:min>45</ns3:min>
+                                                <ns3:maxMathNotation>lessOrEqual</ns3:maxMathNotation>
+                                                <ns3:max>50</ns3:max>
+                                            </ns3:valueRange>
+                                        </ns3:rangeSet>
+                                    </ns3:value>
+                                </ns3:values>
+                            </ns3:characteristicsUsingTextForm>
+                            <ns3:addCharacteristicInfoReason>В связи с отсутствием в Каталоге товаров, работ, услуг характеристик закупаемого товара и на основании Постановления Правительства РФ от 08.02.2017 г № 145 и Правил использования каталога товаров, работ, услуг для обеспечения государственных и муниципальных нужд», заказчиком применены функциональные, технические, качественные, эксплуатационные характеристики товара в соответствии с положениями статьи 33 Федерального закона, которые не предусмотрены в позиции каталога.</ns3:addCharacteristicInfoReason>
+                        </ns3:characteristics>
+                        <ns3:OKPD2>
+                            <ns2:OKPDCode>32.50.13.110</ns2:OKPDCode>
+                            <ns2:OKPDName>Шприцы, иглы, катетеры, канюли и аналогичные инструменты</ns2:OKPDName>
+                        </ns3:OKPD2>
+                    </ns3:KTRU>
+                    <ns3:name>Набор для катетеризации центральных вен, кратковременного использования</ns3:name>
+                    <ns3:OKEI>
+                        <ns2:code>796</ns2:code>
+                        <ns2:nationalCode>ШТ</ns2:nationalCode>
+                        <ns2:name>Штука</ns2:name>
+                    </ns3:OKEI>
+                    <ns3:price>2548.15</ns3:price>
+                    <ns3:quantity>
+                        <ns3:value>100</ns3:value>
+                    </ns3:quantity>
+                    <ns3:sum>254815</ns3:sum>
+                    <ns3:isMedicalProduct>true</ns3:isMedicalProduct>
+                    <ns3:type>PRODUCT</ns3:type>
+                    <ns3:hierarchyType>ND</ns3:hierarchyType>
+                    <ns3:restrictionsInfo>
+                        <ns3:isProhibitionForeignPurchaseObjects>false</ns3:isProhibitionForeignPurchaseObjects>
+                        <ns3:isRestrictForeignPurchaseObjects>true</ns3:isRestrictForeignPurchaseObjects>
+                        <ns3:isPreferenseRFPurchaseObjects>false</ns3:isPreferenseRFPurchaseObjects>
+                        <ns3:isImposibilityProhibition>false</ns3:isImposibilityProhibition>
+                    </ns3:restrictionsInfo>
+                </ns3:purchaseObject>
+                <ns3:totalSum>637037.5</ns3:totalSum>
+                <quantityUndefined>false</quantityUndefined>
+            </notDrugPurchaseObjectsInfo>
+        </purchaseObjectsInfo>
+        <preferensesInfo>
+            <preferenseInfo>
+                <ns3:preferenseRequirementInfo>
+                    <ns2:shortName>PVS33044</ns2:shortName>
+                    <ns2:name>Преимущество в соответствии с ч. 3 ст. 30 Закона № 44-ФЗ</ns2:name>
+                </ns3:preferenseRequirementInfo>
+            </preferenseInfo>
+        </preferensesInfo>
+        <requirementsInfo>
+            <requirementInfo>
+                <ns3:preferenseRequirementInfo>
+                    <ns2:shortName>ET44</ns2:shortName>
+                    <ns2:name>Единые требования к участникам закупок в соответствии с ч. 1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                </ns3:preferenseRequirementInfo>
+            </requirementInfo>
+            <requirementInfo>
+                <ns3:preferenseRequirementInfo>
+                    <ns2:shortName>TR442</ns2:shortName>
+                    <ns2:name>Требования к участникам закупок в соответствии с ч. 1.1 ст. 31 Закона № 44-ФЗ</ns2:name>
+                </ns3:preferenseRequirementInfo>
+            </requirementInfo>
+        </requirementsInfo>
+    </notificationInfo>
+    <printFormFieldsInfo>
+        <is449Features>false</is449Features>
+    </printFormFieldsInfo>
+</ns7:epNotificationEZK2020>

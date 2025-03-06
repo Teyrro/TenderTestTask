@@ -3,9 +3,8 @@
 services:
 
   rabbitmq:
-
     build:
-      context: /Dockerfiles
+      context: ./Dockerfiles
       dockerfile: amqp.Dockerfile
     restart: always
     environment:
@@ -27,10 +26,11 @@ services:
       - "${REDIS_PORT}:6379"
 
   workers:
+
     build:
-      context: .
+      context: ./
       dockerfile: Dockerfile
-    command: ./config/scripts/start_workers.sh
+    command: ./config/scripts/worker.sh
     restart: always
     container_name: workers
     environment:

@@ -13,4 +13,7 @@ line separator in Windows named 'CRLF' change separators in all files, and files
 which using in Docker for start testing or start celery workers scripts. 
 
 If it happens, i'm not sure, how it change. In pycharm it do easy, but in other case. I don't know
-![img.png](readme_source/img.png)
+
+![img.png](readme_source/img.png) 
+
+[Maybe that help in this case:](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)

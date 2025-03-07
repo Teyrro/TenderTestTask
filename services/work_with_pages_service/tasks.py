@@ -1,5 +1,6 @@
 import xmltodict
 from bs4 import BeautifulSoup
+from celery import shared_task
 
 from config.config import settings
 from services.my_celery import app
@@ -14,19 +15,24 @@ class TakeLinksFromPageTask(app.Task):
         return [host + div.find_all("a")[1].get("href") for div in divs]
 
     def run(self, page: str) -> list[str]:
-        links = self.parse_html(page)
-        for i in range(len(links)):
-            links[i] = links[i].replace("view", "viewXml")
-        return links
+        pass
 
 class ParseXMLFileTask(app.Task):
     def run(self, link: str, xml_file: str) -> tuple:
-        common_info = settings.xml_tags.common
-        publish = settings.xml_tags.publish
-        xml = next(iter(xmltodict.parse(xml_file).values()))
-        result = xml[common_info][publish]
-        return link, result
+        pass
 
 
-take_links = app.register_task(TakeLinksFromPageTask())
-parse_xml = app.register_task(ParseXMLFileTask())
+@shared_task(bind=True, base=TakeLinksFromPageTask)
+def take_links(self, page: str):
+    links = self.parse_html(page)
+    for i in range(len(links)):
+        links[i] = links[i].replace("view", "viewXml")
+    return links
+
+@shared_task(bind=True, base=ParseXMLFileTask)
+def parse_xml(self, link: str, xml_file: str):
+    common_info = settings.xml_tags.common
+    publish = settings.xml_tags.publish
+    xml = next(iter(xmltodict.parse(xml_file).values()))
+    result = xml[common_info][publish]
+    return link, result

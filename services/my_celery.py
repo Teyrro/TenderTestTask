@@ -7,7 +7,7 @@ app = Celery(
     "tasks",
     broker=settings.RABBITMQ_URL,
     backend=settings.REDIS_URL,
-    include="services.work_with_pages_service.tasks",
+
 )
 
 
@@ -19,5 +19,5 @@ app.conf.update(
     timezone = 'Asia/Novosibirsk',
     broker_connection_retry_on_startup = True
 )
-app.autodiscover_tasks()
+app.autodiscover_tasks(["services.work_with_pages_service"])
 

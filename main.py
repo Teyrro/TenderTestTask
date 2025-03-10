@@ -1,7 +1,7 @@
 import asyncio
 import json
 
-from celery import group
+from celery import group, chunks
 
 from services.work_with_pages_service.async_pages_process import get_pages, get_xml_files
 from services.work_with_pages_service.tasks import take_links, parse_xml
@@ -21,6 +21,7 @@ def main():
 
     ## TODO Some queries return a 404 error, so some tenders may not be found
     xml_files = asyncio.run(get_xml_files(pages_links))
+    # job = chunks(parse_xml.s(), xml_files, 2)
     job = group([
         parse_xml.s(link, xml_file) for link, xml_file in xml_files
     ])

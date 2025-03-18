@@ -1,35 +1,25 @@
-FROM python:3.11
+FROM python:3.11-slim AS builder
 
-ENV YOUR_ENV=${YOUR_ENV} \
-  PYTHONFAULTHANDLER=1 \
-  PYTHONUNBUFFERED=1 \
-  PYTHONHASHSEED=random \
-  PIP_NO_CACHE_DIR=off \
-  PIP_DISABLE_PIP_VERSION_CHECK=on \
-  PIP_DEFAULT_TIMEOUT=100 \
-  # Poetry's configuration:
-  POETRY_NO_INTERACTION=1 \
-  POETRY_VIRTUALENVS_CREATE=false \
-  POETRY_CACHE_DIR='/var/cache/pypoetry' \
-  POETRY_HOME='/usr/local' \
-  POETRY_VERSION=1.7.1
+ENV POETRY_VIRTUALENVS_IN_PROJECT=true
 
-
-
-RUN curl -sSL https://install.python-poetry.org | python3
-
-WORKDIR /code
-
-ADD poetry.lock pyproject.toml poetry.toml .env /code/
-
-ENV REDIS_MASTER_HOST=$REDIS_MASTER_HOST
-ENV RABBITMQ_HOST=$RABBITMQ_HOST
-
+ADD poetry.lock pyproject.toml poetry.toml ./
+RUN pip install poetry
+RUN poetry env use 3.11
 RUN poetry install --no-root --no-interaction --no-ansi
 
-ADD config /code/config
-ADD services /code/services
-ADD test /code/test
+
+FROM python:3.11-slim AS final
+
+WORKDIR /code
+COPY --from=builder .venv/ /.venv
+ENV PATH="/.venv/bin:$PATH" \
+    REDIS_MASTER_HOST=$REDIS_MASTER_HOST \
+    RABBITMQ_HOST=$RABBITMQ_HOST
+
+COPY .env ./
+COPY config /code/config
+COPY services /code/services
+COPY test /code/test
 
 RUN chmod 777 config/scripts/worker.sh
 

@@ -1,4 +1,4 @@
-FROM python:3.11-slim AS builder
+FROM python:3.13.5-slim AS builder
 
 ENV POETRY_VIRTUALENVS_IN_PROJECT=true
 
@@ -8,7 +8,7 @@ RUN poetry env use 3.11
 RUN poetry install --no-root --no-interaction --no-ansi
 
 
-FROM python:3.11-slim AS final
+FROM python:3.13.5-slim AS final
 
 WORKDIR /code
 COPY --from=builder .venv/ /.venv
